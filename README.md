@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### 👋
+こんにちは～ABATBelieverです。<br>
+主にHSP3やWPFでWebView2を用いたブラウザを作ったり、いろいろやってます
 <!--
 **ABATBeliever/ABATBeliever** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
